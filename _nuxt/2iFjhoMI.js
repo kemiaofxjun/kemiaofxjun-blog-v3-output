@@ -1,0 +1,1 @@
+import{n as s,e as n,o,ag as r}from"./CQKNSPCt.js";const t={};function a(e,c){return o(),n("td",null,[r(e.$slots,"default")])}const _=Object.assign(s(t,[["render",a]]),{__name:"ProseTd"});export{_ as default};

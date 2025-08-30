@@ -1,0 +1,1 @@
+import{n as o,e as s,o as n,ag as r}from"./CQKNSPCt.js";const t={};function a(e,c){return n(),s("tbody",null,[r(e.$slots,"default")])}const _=Object.assign(o(t,[["render",a]]),{__name:"ProseTbody"});export{_ as default};

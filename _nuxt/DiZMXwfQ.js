@@ -1,0 +1,1 @@
+import{n as o,e as t,o as s,ag as c}from"./CQKNSPCt.js";const n={};function r(e,a){return s(),t("blockquote",null,[c(e.$slots,"default")])}const _=Object.assign(o(n,[["render",r]]),{__name:"ProseBlockquote"});export{_ as default};
