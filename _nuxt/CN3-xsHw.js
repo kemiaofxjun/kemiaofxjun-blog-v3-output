@@ -1,0 +1,1 @@
+import{n as s,c as n,o,ag as r}from"./DQsdLRFV.js";const t={};function a(e,c){return o(),n("em",null,[r(e.$slots,"default")])}const _=Object.assign(s(t,[["render",a]]),{__name:"ProseEm"});export{_ as default};
