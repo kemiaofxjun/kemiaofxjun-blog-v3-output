@@ -1,0 +1,1 @@
+import{d as t,e as s,f as a,ah as o,H as r,t as n,_}from"./Dw6R6eid.js";const c={class:"blur"},l=t({__name:"Blur",props:{text:{}},setup(p){return(e,u)=>(a(),s("span",c,[o(e.$slots,"default",{},()=>[r(n(e.text),1)],!0)]))}}),f=Object.assign(_(l,[["__scopeId","data-v-f230e5bb"]]),{__name:"Blur"});export{f as default};

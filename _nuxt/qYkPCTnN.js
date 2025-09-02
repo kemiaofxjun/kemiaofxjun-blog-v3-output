@@ -1,1 +1,0 @@
-import{n as s,c as n,o,ah as r}from"./Ckr-UtRO.js";const t={};function a(e,c){return o(),n("li",null,[r(e.$slots,"default")])}const _=Object.assign(s(t,[["render",a]]),{__name:"ProseLi"});export{_ as default};
