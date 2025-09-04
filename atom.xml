@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://kemeow.kemiaosw.top/</id>
   <title>喵洛阁</title>
-  <updated>2025-09-04T13:28:19.939Z</updated>
+  <updated>2025-09-04T13:37:52.936Z</updated>
   <description>愿你看清一切真相后，依旧热爱你的家人和朋友。</description>
   <author>
     <name>克喵爱吃卤面</name>
@@ -212,19 +212,5 @@
     <summary>记录 Markdown 的用法，便于查找。</summary>
     <category term="技术分享"></category>
     <published>2025-02-11T18:15:25.000Z</published>
-  </entry>
-  <entry>
-    <id>https://kemeow.kemiaosw.top/2025/09/sitelink-page</id>
-    <title>添加站点详情页面</title>
-    <author>
-      <name>克喵爱吃卤面</name>
-    </author>
-    <content type="html">
-      <![CDATA[<img src="https://sourceimage.s3.bitiful.net/img/default_cover_32.avif" /> <p>本篇文章主要简述了如何给Nuxt框架添加站点详情</p> <a class="view-full" href="https://kemeow.kemiaosw.top/2025/09/sitelink-page" target="_blank">点击查看全文</a>]]>
-    </content>
-    <link href="https://kemeow.kemiaosw.top/2025/09/sitelink-page"></link>
-    <summary>本篇文章主要简述了如何给Nuxt框架添加站点详情</summary>
-    <category term="博客魔改"></category>
-    <published>2025-09-02T10:00:00.000Z</published>
   </entry>
 </feed>
