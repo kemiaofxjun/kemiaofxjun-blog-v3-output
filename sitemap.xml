@@ -41,9 +41,15 @@
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505051857682.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/60s</loc>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/about</loc>
@@ -83,9 +89,15 @@
         <image:image>
             <image:loc>https://cdn.sxiaohe.top/img/banners/js.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/anime</loc>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/archive</loc>
@@ -128,32 +140,56 @@
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/markdown.png</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/book</loc>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/comments</loc>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/equipment</loc>
         <image:image>
             <image:loc>https://img.314926.xyz/images/2025/07/30/iqoo11.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/essays</loc>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/fc</loc>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/fcircle</loc>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/game</loc>
         <image:image>
             <image:loc>https://lain.bgm.tv/r/400/pic/cover/l/f6/87/172808_rf2iX.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -166,6 +202,9 @@
         </image:image>
         <image:image>
             <image:loc>https://blog.myxz.top/img/screen.avif</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -209,9 +248,15 @@
         <image:image>
             <image:loc>https://img.314926.xyz/images/2025/08/13/no-background-kemiaofxjun.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/music</loc>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/tags</loc>
@@ -254,14 +299,23 @@
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505092245268.png</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/yingshi</loc>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/2025/02/11/markdown</loc>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/markdown.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -269,11 +323,17 @@
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/biaotiyufa.png</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/2025/04/04/git-tongbu</loc>
         <image:image>
             <image:loc>https://i1.wp.com/dev.ruom.top/i/2025/04/07/995956.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -317,6 +377,9 @@
         <image:image>
             <image:loc>https://s2.loli.net/2025/04/07/M9wsiYKBoGyLI8T.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/2025/04/14/waline-deploy-vercel</loc>
@@ -356,6 +419,9 @@
         <image:image>
             <image:loc>https://s2.loli.net/2025/04/14/4BOxqfs16erKTMV.png</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/2025/05/04/tgtalk-deploy</loc>
@@ -371,6 +437,9 @@
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505042340963.png</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/2025/05/09/drop</loc>
@@ -379,6 +448,9 @@
         </image:image>
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505092144042.png</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -398,6 +470,9 @@
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505151358822.jpg</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/2025/05/19/zyfx-toolooz</loc>
@@ -407,11 +482,17 @@
         <image:image>
             <image:loc>https://cdn.jsdelivr.net/gh/kmfx/tuchuang@main/img/202505191632987.png</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/2025/06/28-1/markdown-huanhang</loc>
         <image:image>
             <image:loc>https://photo-kemiao.oss-cn-hangzhou.aliyuncs.com/img/markdown-huanhang.webp-ys</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -419,11 +500,17 @@
         <image:image>
             <image:loc>https://photo-kemiao.oss-cn-hangzhou.aliyuncs.com/img/markdown-duanluo.webp-ys</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://kemeow.kemiaosw.top/2025/07/17/markdown-qiangdiao</loc>
         <image:image>
             <image:loc>https://imgtg.kemeow.top/file/AgACAgUAAyEGAAScqokCAAMKaHj_h2rkMAABtcX1LDXzMH-mlLSFAAIXyTEbCpvIV1d2cz5UpNogAQADAgADeQADNgQ.webp</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
         </image:image>
     </url>
     <url>
@@ -446,6 +533,9 @@
         <image:image>
             <image:loc>https://img.314926.xyz/images/2025/08/19/hexo-beiwang3.webp</image:loc>
         </image:image>
+        <image:image>
+            <image:loc>https://icp.redcha.cn/static/picture/icplogoi.png</image:loc>
+        </image:image>
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.3 at 2025-09-04T13:38:30.473Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.4.3 at 2025-09-05T02:54:18.509Z -->
