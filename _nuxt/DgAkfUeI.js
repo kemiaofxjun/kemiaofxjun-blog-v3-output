@@ -1,1 +1,0 @@
-import{_ as s,g as r,h as n,ah as o}from"./BIgHg_sB.js";const t={};function a(e,c){return n(),r("em",null,[o(e.$slots,"default")])}const l=Object.assign(s(t,[["render",a]]),{__name:"ProseEm"});export{l as default};
